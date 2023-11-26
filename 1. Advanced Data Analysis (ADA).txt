@@ -1,0 +1,50 @@
+# 1. ADVANCED DATA ANALYSIS (ADA)
+---------------------------------
+
+* ADA capabilities and requirements
+-----------------------------------
+. Available with paid subscription.
+
+. Runs a Python interpreter on a sandboxed firewall environment.
+
+. It has a time limit of about three hours.
+
+. File Formats
+	. PDF
+	. Text
+	. Powerpoint
+	. MS Word
+	. MS Excel
+	. CSV
+
+. Tool's Capabilities
+	. Synthesis
+		Analyze information/generate content
+		
+	. Transformation
+		Add or modify information
+
+	. Extraction
+		Gather and output.
+
+	. Analyze/Clean
+		Suggesting fixes and corrections.
+
+	. Web Access Unavailable
+		Can't reference data online
+
+	. Can use Training Data
+		
+	. Non Deterministic
+		Different with every prompt
+
+	. Currently in Beta
+		Exhibits unexpected behavior
+
+
+* Installation and importing data
+---------------------------------
+The paid version allows users to upload files when using this tool and other tools.
+
+* Processing and dealing with PDFs
+----------------------------------
