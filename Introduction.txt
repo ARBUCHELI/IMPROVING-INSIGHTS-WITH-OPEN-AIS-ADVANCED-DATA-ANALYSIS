@@ -1,0 +1,14 @@
+# INTRODUCTION
+--------------
+
+* Advanced Data Analysis Tool
+----------------------------- * ---> Can write Python code for you.
+
+* GPT
+-----
+Can perform a variety of tasks, that can:
+	
+	. Analyze data.
+	. Analyze uploads.
+	. Create graphs.
+	. Summarize PDF files.
