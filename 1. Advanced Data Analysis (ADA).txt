@@ -48,3 +48,36 @@ The paid version allows users to upload files when using this tool and other too
 
 * Processing and dealing with PDFs
 ----------------------------------
+The tool can process PDF documents, extract images and generate content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
